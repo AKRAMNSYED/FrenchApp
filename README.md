@@ -1,4 +1,4 @@
-# French Website
+# FrenchApp
 
 A Streamlit-powered French vocabulary notebook with English–French translation, bilingual sentence examples, searchable vocabulary, custom 10-word quizzes, and colorful learning milestone badges.
 
